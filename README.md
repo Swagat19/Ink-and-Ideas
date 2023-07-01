@@ -1,2 +1,1 @@
-# Ink-and-Ideas
-A blogging website 
+# Ink and Ideas
