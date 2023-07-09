@@ -17,5 +17,6 @@ jobs:
           node-version: 18
       - run: npm i
       - run: npx nodemon apps
-
+      
+runs-on: self-hosted
  
