@@ -188,5 +188,6 @@ textarea {
   border: 0;
   font-size: 1.2em;
   cursor: pointer;
-  margin-left: 210px;
+  position: absolute;
+  left: 47%;   
 }
