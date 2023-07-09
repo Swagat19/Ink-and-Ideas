@@ -182,12 +182,12 @@ textarea {
 
 .create-blog button {
   margin-top: 20px;
+  position: absolute;
+  left: 47%;
   background: crimson;
   color: white;
   padding: 6px;
   border: 0;
   font-size: 1.2em;
   cursor: pointer;
-  position: absolute;
-  left: 47%;
 }
